@@ -1,2 +1,2 @@
-#My first repo.
-#My fist initialization.
+My first repo.
+My fist initialization.
